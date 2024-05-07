@@ -1,0 +1,8 @@
+body{
+    background-image: url('./src/assets/photorealistic-style-clouds.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
+    background-attachment: fixed;
+}
